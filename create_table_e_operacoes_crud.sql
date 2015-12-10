@@ -15,22 +15,22 @@ create table cadastro_receita_federal(
 insert into cadastro_receita_federal 
 (nome_completo, numero_cpf, data_nascimento, nome_mae, salario, qtd_imoveis)
 values
-('Joãozinho 30', '12345678900', '12-05-1990', 'Mariazinha 15', 5000.34, 10);
+('Joãozinho 30', '12345678900', '1990-05-12', 'Mariazinha 15', 5000.34, 10);
 
 insert into cadastro_receita_federal 
 (nome_completo, numero_cpf, data_nascimento, nome_mae, salario, qtd_imoveis)
 values
-('Pedrinho', '12345678991', '01-02-1924', 'Dona Hildegarda', 1234.20, 2);
+('Pedrinho', '12345678991', '1924-02-01', 'Dona Hildegarda', 1234.20, 2);
 
 insert into cadastro_receita_federal 
 (nome_completo, numero_cpf, data_nascimento, nome_mae, salario, qtd_imoveis)
 values
-('Hugo Chaves', '11122233344', '05-20-1947', 'Dona Florinda Mesa', 4440, 4);
+('Hugo Chaves', '11122233344', '1947-05-20', 'Dona Florinda Mesa', 4440, 4);
 
 insert into cadastro_receita_federal 
 (nome_completo, numero_cpf, data_nascimento, nome_mae, salario, qtd_imoveis)
 values
-('Maria Joaquina', '77788899900', '05-05-1980', 'Joana Darc', 3098.22, 5);
+('Maria Joaquina', '77788899900', '1980-05-05', 'Joana Darc', 3098.22, 5);
 
 -- Atualização de um registro qualquer
 
