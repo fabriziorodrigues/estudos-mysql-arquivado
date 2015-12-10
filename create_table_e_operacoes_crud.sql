@@ -1,4 +1,3 @@
-```sql
 -- Criação da tabela
 
 create table cadastro_receita_federal(
@@ -55,4 +54,3 @@ select salario,
     nome_mae,
     qtd_imoveis
 from cadastro_receita_federal;
-```
